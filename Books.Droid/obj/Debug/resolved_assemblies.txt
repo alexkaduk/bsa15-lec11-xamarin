@@ -1,0 +1,15 @@
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Books.Droid.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Books.Core.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.CrossCore.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.CrossCore.Droid.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.Binding.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.Binding.Droid.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.Droid.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.Localization.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.Plugins.File.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.Plugins.File.Droid.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Cirrious.MvvmCross.Plugins.Json.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Books.Droid\obj\Debug\assemblies\Newtonsoft.Json.dll

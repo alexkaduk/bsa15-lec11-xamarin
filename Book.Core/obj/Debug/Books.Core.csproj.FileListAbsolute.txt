@@ -1,0 +1,9 @@
+C:\projects\BSA-Xamarin-MvvmCross-Task\Book.Core\bin\Debug\Books.Core.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Book.Core\bin\Debug\Books.Core.pdb
+C:\projects\BSA-Xamarin-MvvmCross-Task\Book.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Book.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Book.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Book.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Book.Core\bin\Debug\Newtonsoft.Json.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Book.Core\obj\Debug\Books.Core.dll
+C:\projects\BSA-Xamarin-MvvmCross-Task\Book.Core\obj\Debug\Books.Core.pdb
